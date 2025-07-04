@@ -51,7 +51,7 @@ It includes fields for name, phone number, age, employment status, salary select
 ## 📸 Screenshots
 
 ### 💻 Desktop View
-![Desktop](src/assets/design/40- Loan Application Form.png)
+![Desktop](public/assets/design/40-Loan-Application-Form.png)
 
 ---
 
